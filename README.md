@@ -33,7 +33,7 @@ The **Employee Management System** is a comprehensive web application built usin
 ### 📜 **Getting Started**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-management.git
+   git clone https://github.com/nemish96bhayani/RBAC_UI.git
    ```
 2. Install dependencies:
    ```bash
